@@ -1,5 +1,5 @@
 
-# 📊 Pakistan E-commerce Sales Dashboard – Excel Analytics Project
+#  Pakistan E-commerce Sales Dashboard – Excel Analytics Project
 
 This project analyzes Pakistan's largest publicly available e-commerce dataset (from Kaggle) and visualizes key business insights through a fully interactive Excel dashboard.
 
@@ -8,7 +8,7 @@ This project analyzes Pakistan's largest publicly available e-commerce dataset (
 - Records: 584,359 orders
 - Timeframe: Feb 2016 – May 2017
 
-## 🧠 Objective
+##  Objective
 To analyze real-world e-commerce performance using Excel and build a dashboard that can help business users explore trends in revenue, customer behavior, payment preferences, and product performance.
 
 ## 🛠 Tools Used
@@ -25,7 +25,7 @@ To analyze real-world e-commerce performance using Excel and build a dashboard t
 - Cash on Delivery was the dominant payment method, used in over 250K orders
 - Top customers showed repeat purchases across multiple months
 
-## 📊 Dashboard Features
+## Dashboard Features
 - KPI summary (Revenue, Orders, Customers, Avg. Order Value)
 - Monthly sales trends (line chart)
 - Category-wise sales performance (bar + pie chart)
@@ -39,7 +39,7 @@ To analyze real-world e-commerce performance using Excel and build a dashboard t
 - `Screenshots/`: Images of the final dashboard
 - `README.md`: Project summary
 
-## 👨‍💻 Author
+## Author
 Muhammad Annas – Data Analyst  
 Feel free to connect on [LinkedIn](www.linkedin.com/in/muhammad-annas-095098250) or reach out if you have questions!
 
