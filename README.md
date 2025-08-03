@@ -38,6 +38,8 @@ To analyze real-world e-commerce performance using Excel and build a dashboard t
 - `Pakistan_Largest_Ecommerce_Dataset.xlsx`: Cleaned dataset + dashboard
 - `Screenshots/`: Images of the final dashboard
 - `README.md`: Project summary
+- <img width="1459" height="938" alt="Dashboard" src="https://github.com/user-attachments/assets/7be66682-8587-45e2-a7bc-4a00d19cf1ca" />
+
 
 ## Author
 Muhammad Annas – Data Analyst  
